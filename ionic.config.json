@@ -1,0 +1,7 @@
+{
+  "name": "lab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
